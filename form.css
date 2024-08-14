@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+form{
+    background-color: rgb(218, 145, 119);
+    width: 50%;
+    border: 2px solid green;
+    margin: 50px;
+}
+label{
+    color: rgb(143, 22, 22);
+    padding: 10px;
+}
+textarea{
+    background-color: aqua;
+}
+button{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
